@@ -18,7 +18,7 @@
 - #### Atividade 4 (Paola) - Realizada
 - #### Atividade 5 (Paola) - Realizada
 - #### Atividade 6 (Carol) - Realizada
-       #### - Código feito. Enviado para análise e aprovado pelo BeeCrowd.
+       #### - Foram realizadas 3 versões do código. A primeira foi aprovada pelo BeeCrowd, contudo dificultava a implementação do teste de unidade pois não havia passagem de parâmetros. Foi realizada uma segunda versão do código, que também foi aprovada pelo BeeCrowd, mas que ainda tornava difícil a implementação do teste pois havia um valor de retorno mas não parâmetros de entrada. Então foi formulada a versão final do código, cujo print está na aba "Issues", que foi aceita pelo BeeCrowd e utilizada para a realização da atividade 7.
 - #### Atividade 7 (Carol) - Realizada
        #### - Teste de unidade realizado e correção de erros realizada.
 
