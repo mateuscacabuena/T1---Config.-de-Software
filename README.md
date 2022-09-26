@@ -2,7 +2,9 @@
 ### Carolina Ferreira
 ### Paola Anacleto Lopes
 
-- #### Atividade 2 (Mateus) - Realizada, arquivos já adicionados no repositório
+- #### Atividade 2 (Mateus) - Realizada
+-     Arquivos adicionados no repositório, capturas de tela que mostram o êxito na aba "Issues".
+-     src, target e pom.xml são os arquivos adicionados, ademais, a pasta "T1ConfigSoft" que extrai os 3 arquivos juntos.
 - #### Atividade 3 (Mateus) - Realizada
       Passo a Passo para criar o clone do projeto:
       #### 1 - Baixe a pasta "src" e "target"
