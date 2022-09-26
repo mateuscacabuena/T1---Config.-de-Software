@@ -2,7 +2,7 @@
 ### Carolina Ferreira
 ### Paola Anacleto Lopes
 
-- #### Atividade 1 (Mateus e Carol) - Realizada
+- #### Atividade 1 (Carol, Paola e Mateus) - Realizada
        #### - Repositório criado, licença e git.ignore adicionados também, é possível checar na aba de arquivos do repositório abrindo as pastas ".gitignore" e "LICENSE".
 - #### Atividade 2 (Mateus) - Realizada
       #### - Arquivos adicionados no repositório, capturas de tela que mostram o êxito na aba "Issues".
