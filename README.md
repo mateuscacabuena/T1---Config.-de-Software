@@ -2,7 +2,7 @@
 ### Carolina Ferreira
 ### Paola Anacleto Lopes
 
-- [ ] #### Atividade 2 (Mateus) - Realizada, arquivos já adicionados no repositório
+- [ ] ### Atividade 2 (Mateus) - Realizada, arquivos já adicionados no repositório
 - [ ] #### Atividade 3 (Mateus) - Realizada
       #### Passo a Passo para criar o clone do projeto:
       #### 1 - Baixe a pasta "src" e "target"
