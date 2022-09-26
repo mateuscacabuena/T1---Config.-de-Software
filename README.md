@@ -8,6 +8,8 @@
       #### - Arquivos adicionados no repositório, capturas de tela que mostram o êxito na aba "Issues".
       #### - src, target e pom.xml são os arquivos adicionados, ademais, a pasta "T1ConfigSoft" que extrai os 3 arquivos juntos.
 - #### Atividade 3 (Mateus) - Realizada
+       #### - Como o trabalho foi feito em dias diferentes, para fazer a atividade 2 usamos o windows de um computador do laboratório e, para fazer a atividade 6, foi usado o linux de outro computador do laboratório em outro dia.
+       #### - Na aba "Issues", as capturas de tela da ativ 2 e 6 mostram que são terminais de comando diferentes.
       Passo a Passo para criar o clone do projeto:
       #### 1 - Baixe a pasta "src" e "target"
       #### 2 - Baixe o "pom.xml"
@@ -18,9 +20,11 @@
 - #### Atividade 4 (Paola) - Realizada
 - #### Atividade 5 (Paola) - Realizada
 - #### Atividade 6 (Carol) - Realizada
-       #### - Foram realizadas 3 versões do código. A primeira foi aprovada pelo BeeCrowd, contudo dificultava a implementação do teste de unidade pois não havia passagem de parâmetros. Foi realizada uma segunda versão do código, que também foi aprovada pelo BeeCrowd, mas que ainda tornava difícil a implementação do teste pois havia um valor de retorno mas não parâmetros de entrada. Então foi formulada a versão final do código, cujo print está na aba "Issues", que foi aceita pelo BeeCrowd e utilizada para a realização da atividade 7.
+       #### - Foram realizadas 3 versões do código. A primeira foi aprovada pelo BeeCrowd, contudo dificultava a implementação do teste de unidade pois não havia passagem de parâmetros. 
+       #### - Foi realizada uma segunda versão do código, que também foi aprovada pelo BeeCrowd, mas que ainda tornava difícil a implementação do teste pois havia um valor de retorno mas não parâmetros de entrada. 
+       #### - Então foi formulada a versão final do código, cujo print está na aba "Issues", que foi aceita pelo BeeCrowd e utilizada para a realização da atividade 7.
 - #### Atividade 7 (Carol) - Realizada
-       #### - Na classe de teste foram criados 2 casos de teste: caso o número de cartas do Jogador 1 fosse maior que as do 2, e caso as do 2 fossem maior que as do 1. Ambos os casos passaram no teste. O print que mostra a execução com sucesso do teste está na aba "Issues". 
+       #### - Na classe de teste foram criados 2 casos de teste: caso o número de cartas do Jogador 1 fosse maior que as do 2, e caso as do 2 fossem maior que as do 1.        #### - Ambos os casos passaram no teste. O print que mostra a execução com sucesso do teste está na aba "Issues". 
 
 - #### Fontes: 
              - https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java
