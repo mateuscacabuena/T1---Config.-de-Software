@@ -3,7 +3,7 @@
 ### Paola Anacleto Lopes
 
 - #### Atividade 1 (Mateus e Carol) - Realizada
-       #### - Repositório criado, licença e git.ignore adicionados também, é possível checar na aba de files.
+       #### - Repositório criado, licença e git.ignore adicionados também, é possível checar na aba de arquivos do repositório abrindo as pastas ".gitignore" e "LICENSE".
 - #### Atividade 2 (Mateus) - Realizada
       #### - Arquivos adicionados no repositório, capturas de tela que mostram o êxito na aba "Issues".
       #### - src, target e pom.xml são os arquivos adicionados, ademais, a pasta "T1ConfigSoft" que extrai os 3 arquivos juntos.
