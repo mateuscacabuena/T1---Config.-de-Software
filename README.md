@@ -2,9 +2,9 @@
 ### Carolina Ferreira
 ### Paola Anacleto Lopes
 
-- [ ] #### Atividade 2 - Realizada, arquivos já adicionados no repositório
-- [ ] #### Atividade 3 - Realizada
-- [ ] #### Atividade 4 - Realizada
-- [ ] #### Atividade 5 - Realizada
-- [ ] #### Atividade 6 - Realizada
-- [ ] #### Atividade 7 - Realizada
+- [ ] #### Atividade 2 (Mateus) - Realizada, arquivos já adicionados no repositório
+- [ ] #### Atividade 3 (Mateus) - Realizada
+- [ ] #### Atividade 4 (Paola) - Realizada
+- [ ] #### Atividade 5 (Paola) - Realizada
+- [ ] #### Atividade 6 (Carol) - Realizada
+- [ ] #### Atividade 7 (Carol) - Realizada
