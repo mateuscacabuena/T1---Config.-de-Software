@@ -22,8 +22,8 @@
 - #### Atividade 7 (Carol) - Realizada
        #### - Teste de unidade realizado e correção de erros realizada.
 
-       #### - Fontes: 
-              https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java
-              https://spring.io/guides/gs/maven/
-              https://maven.apache.org/guides/getting-started/windows-prerequisites.html
-              https://dicasdejava.com.br/como-instalar-o-maven-no-windows/
+- #### Fontes: 
+             - https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java
+             - https://spring.io/guides/gs/maven/
+             - https://maven.apache.org/guides/getting-started/windows-prerequisites.html
+             - https://dicasdejava.com.br/como-instalar-o-maven-no-windows/
