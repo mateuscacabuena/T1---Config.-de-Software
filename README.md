@@ -18,4 +18,6 @@
 - #### Atividade 4 (Paola) - Realizada
 - #### Atividade 5 (Paola) - Realizada
 - #### Atividade 6 (Carol) - Realizada
+       #### - Código feito. Enviado para análise e aprovado pelo BeeCrowd.
 - #### Atividade 7 (Carol) - Realizada
+       #### - Teste de unidade realizado e correção de erros realizada.
