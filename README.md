@@ -20,7 +20,7 @@
 - #### Atividade 6 (Carol) - Realizada
        #### - Foram realizadas 3 versões do código. A primeira foi aprovada pelo BeeCrowd, contudo dificultava a implementação do teste de unidade pois não havia passagem de parâmetros. Foi realizada uma segunda versão do código, que também foi aprovada pelo BeeCrowd, mas que ainda tornava difícil a implementação do teste pois havia um valor de retorno mas não parâmetros de entrada. Então foi formulada a versão final do código, cujo print está na aba "Issues", que foi aceita pelo BeeCrowd e utilizada para a realização da atividade 7.
 - #### Atividade 7 (Carol) - Realizada
-       #### - Teste de unidade realizado e correção de erros realizada.
+       #### - Na classe de teste foram criados 2 casos de teste: caso o número de cartas do Jogador 1 fosse maior que as do 2, e caso as do 2 fossem maior que as do 1. Ambos os casos passaram no teste. O print que mostra a execução com sucesso do teste está na aba "Issues". 
 
 - #### Fontes: 
              - https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java
