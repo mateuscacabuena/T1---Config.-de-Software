@@ -4,7 +4,7 @@
 
 - #### Atividade 2 (Mateus) - Realizada, arquivos já adicionados no repositório
 - #### Atividade 3 (Mateus) - Realizada
-      #### Passo a Passo para criar o clone do projeto:
+      Passo a Passo para criar o clone do projeto:
       #### 1 - Baixe a pasta "src" e "target"
       #### 2 - Baixe o "pom.xml"
       #### 3 - Coloque os 3 itens baixados em uma única pasta de sua preferência
