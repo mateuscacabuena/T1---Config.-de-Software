@@ -1,5 +1,6 @@
 # T1---Config.-de-Software ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/matcacabuena/T1---Config.-de-Software/maven)
 ### Carolina Ferreira
+### Mateus Cacabuena
 ### Paola Anacleto Lopes
 
 - #### Atividade 1 (Mateus, Carol e Paola) - Realizada
